@@ -1,0 +1,7 @@
+Repositorio:
+https://github.com/gabrielaguero/tp-2-aplicaciones-hibridas.git
+
+Funcionalidades:
+- Agregar mas juegos
+- Agregar un buscador
+- Animaciones
